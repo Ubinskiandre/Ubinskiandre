@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ubinskiandre/Ubinskiandre**
 - André Gustavo Ubinski
